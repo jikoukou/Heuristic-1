@@ -1,0 +1,3 @@
+heuristic1.Popularities
+heuristic1.QuerySet
+heuristic1.Create_AP
